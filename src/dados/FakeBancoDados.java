@@ -1,3 +1,7 @@
+/*
+Wesley Elbert Assis
+*/
+
 package dados;
 
 import ferramentas.Validacao;
