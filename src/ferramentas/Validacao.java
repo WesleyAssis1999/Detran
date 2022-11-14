@@ -1,3 +1,7 @@
+/*
+Wesley Elbert Assis
+*/
+
 package ferramentas;
 
 import java.text.ParseException;
